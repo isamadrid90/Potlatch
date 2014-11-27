@@ -14,5 +14,15 @@
     <string name="lbl_rb_male">Male</string>
     <string name="lbl_rb_female">Female</string>
     <string name="lbl_birthday">Birthday:</string>
+    <string name="server">https://192.168.1.11:8443</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="user_admin">admin</string>
+    <string name="pass_admin">pass</string>
 
 </resources>

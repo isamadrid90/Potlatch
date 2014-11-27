@@ -13,7 +13,7 @@
         <EditText
             android:layout_width="262dp"
             android:layout_height="wrap_content"
-            android:id="@+id/editText"
+            android:id="@+id/et_username"
             android:hint="@string/lbl_username" />
 
         <EditText
@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:inputType="textPassword"
             android:ems="10"
-            android:id="@+id/editText2"
+            android:id="@+id/et_password"
             android:hint="@string/lbl_password" />
 
         <Button

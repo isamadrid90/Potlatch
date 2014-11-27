@@ -90,6 +90,6 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/lbl_register"
-        android:id="@+id/button" />
+        android:id="@+id/btn_registration" />
 
 </LinearLayout>
